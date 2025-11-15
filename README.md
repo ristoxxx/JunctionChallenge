@@ -2,16 +2,7 @@
 
 Enhance the Wolt user experience with natural-language voice interaction.
 This project integrates an **AI-powered voice assistant** into the Wolt web interface (or Wolt-like mock UI), enabling users to **search restaurants, order food, navigate the app, and interact with content using voice commands**.  
-<table align="center">
-  <tr>
-    <td><img src="./media/app3.jpeg" width="300"/></td>
-    <td><img src="./media/app4.jpeg" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="./media/app2.jpeg" width="300"/></td>
-    <td><img src="./media/app1.jpeg" width="300"/></td>
-  </tr>
-</table>
+
 ---
 
 ## 🎯 Features
@@ -137,7 +128,16 @@ Example dialogue:
 
 ## 🖼️ Screenshots (optional)
 
-*(Add screenshots here if desired.)*
+<table align="center">
+  <tr>
+    <td><img src="./media/app3.jpeg" width="300"/></td>
+    <td><img src="./media/app4.jpeg" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="./media/app2.jpeg" width="300"/></td>
+    <td><img src="./media/app1.jpeg" width="300"/></td>
+  </tr>
+</table>
 
 ---
 
