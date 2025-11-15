@@ -1,13 +1,8 @@
-Here is a **clean, professional GitHub README** for your project that integrates an **AI voice assistant into the Wolt app interface**.
-If you'd like, I can also tailor it based on the exact codebase structure or generate badges, diagrams, or a full wiki.
-
----
-
 # 🚀 AI Voice Assistant Integration for Wolt
 
 Enhance the Wolt user experience with natural-language voice interaction.
 This project integrates an **AI-powered voice assistant** into the Wolt web interface (or Wolt-like mock UI), enabling users to **search restaurants, order food, navigate the app, and interact with content using voice commands**.
-
+![alt text](https://github.com/[ristoxxx]/[JunctionChallenge]/blob/[main]/media/app1.jpg?raw=true)
 ---
 
 ## 🎯 Features
