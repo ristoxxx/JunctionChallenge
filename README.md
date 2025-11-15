@@ -1,7 +1,7 @@
 # 🚀 AI Voice Assistant Integration for Wolt
 
 Enhance the Wolt user experience with natural-language voice interaction.
-This project integrates an **AI-powered voice assistant** into the Wolt web interface (or Wolt-like mock UI), enabling users to **search restaurants, order food, navigate the app, and interact with content using voice commands**.  
+This project integrates an **AI-powered voice assistant** into the Wolt app (or Wolt-like mock UI), enabling users to **search restaurants, order food, navigate the app, and interact with content using voice commands**.  
 Demo version avalable here -> https://junction-challenge.vercel.app/
 
 ---
@@ -10,14 +10,14 @@ Demo version avalable here -> https://junction-challenge.vercel.app/
 
 ### 🎙️ Voice Interaction
 
-* Record user speech directly in the browser
+* Record user speech directly in app (browser in demo version)
 * Transcribe audio using AI (e.g., Whisper, Deepgram, or built-in STT)
 * Process natural-language intent with an LLM
 * Respond using on-screen text and optional text-to-speech
 
 ### 🍽️ Wolt-Like UI Integration
 
-* Works on top of a simulated or real Wolt-style interface
+* Works on top of a simulated Wolt-style interface
 * Supports search flows such as:
 
   * “Find sushi places nearby”
