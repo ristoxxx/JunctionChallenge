@@ -1,9 +1,9 @@
-# 🚀 AI Voice Assistant Integration for Wolt
+# 🚀 AI Voice Assistant Integration for Wolt demo
 
 Enhance the Wolt user experience with natural-language voice interaction.
 This project integrates an **AI-powered voice assistant** into the Wolt app (or Wolt-like mock UI), enabling users to **search restaurants, order food, navigate the app, and interact with content using voice commands**.  
 Demo version avalable here -> https://junction-challenge.vercel.app/
-
+Presentation can be found from here https://tinyurl.com/Yuho-Ai-junction
 ---
 
 ## 🎯 Features
